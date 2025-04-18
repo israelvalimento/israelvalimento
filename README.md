@@ -1,16 +1,14 @@
-## Hi there 👋
+<table>
 
-<!--
-**israelvalimento/israelvalimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<span >
+  
+  <img src="https://raw.githubusercontent.com/israelvalimento/israelvalimento/master/src/public/assets/me.png" alt="Myself Picture">
+  <b>Israel Valimento</b>
+  <hr/>
+</span>
+## Skills & Technologies 🛠️
