@@ -7,7 +7,7 @@
       <br>
       <br>
       <br>
-      <h1>Israel Valimento</h1>
+      <h1>Israel</h1>
     </td>
   </tr>
 </table>
