@@ -1,16 +1,4 @@
-<table>
-  <tr>
-    <td width="160">
-      <img src="https://raw.githubusercontent.com/israelvalimento/israelvalimento/master/src/public/assets/me.png" alt="Myself Picture" width="150" />
-    </td>
-    <td>
-      <br>
-      <br>
-      <br>
-      <h1>Israel</h1>
-    </td>
-  </tr>
-</table>
+
 
 <hr/>
 
